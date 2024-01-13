@@ -1,10 +1,4 @@
-# 基于SSM的车辆租赁管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**租车1** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的车辆租赁管理系统1
 
 ## 1、项目介绍
 
@@ -34,43 +28,40 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021517985.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208021517985.jpg)
 
 ### 4.2 管理员模块
 
-![管理员-用户列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021517939.jpg)
+![管理员-用户列表](https://www.codeshop.fun/Typora-Images/202208021517939.jpg)
 
-![管理员-添加用户](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021517271.jpg)
+![管理员-添加用户](https://www.codeshop.fun/Typora-Images/202208021517271.jpg)
 
-![管理员-修改角色的权限](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021517371.jpg)
+![管理员-修改角色的权限](https://www.codeshop.fun/Typora-Images/202208021517371.jpg)
 
-![管理员-添加客户](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021518728.jpg)
+![管理员-添加客户](https://www.codeshop.fun/Typora-Images/202208021518728.jpg)
 
-![管理员-汽车列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021518540.jpg)
+![管理员-汽车列表](https://www.codeshop.fun/Typora-Images/202208021518540.jpg)
 
-![管理员-添加汽车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021518731.jpg)
+![管理员-添加汽车](https://www.codeshop.fun/Typora-Images/202208021518731.jpg)
 
-![管理员-客户选车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021518088.jpg)
+![管理员-客户选车](https://www.codeshop.fun/Typora-Images/202208021518088.jpg)
 
-![管理员-用户还车和车辆入库](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021518903.jpg)
+![管理员-用户还车和车辆入库](https://www.codeshop.fun/Typora-Images/202208021518903.jpg)
 
-![管理员-生成出租单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021518339.jpg)
+![管理员-生成出租单](https://www.codeshop.fun/Typora-Images/202208021518339.jpg)
 
-![管理员-出租单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021518087.jpg)
+![管理员-出租单管理](https://www.codeshop.fun/Typora-Images/202208021518087.jpg)
 
-![管理员-查询出租单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021518414.jpg)
+![管理员-查询出租单](https://www.codeshop.fun/Typora-Images/202208021518414.jpg)
 
-![管理员-角色管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021518155.jpg)
+![管理员-角色管理](https://www.codeshop.fun/Typora-Images/202208021518155.jpg)
 
 ### 4.3 销售人员模块
 
-![销售人员-功能菜单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021517930.jpg)
+![销售人员-功能菜单](https://www.codeshop.fun/Typora-Images/202208021517930.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**租车1** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**租车**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
